@@ -1,0 +1,7 @@
+future
+requests==2.22.0
+beautifulsoup4
+decorator
+urllib=1.25.8
+pathlib
+cfscrape
