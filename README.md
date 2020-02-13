@@ -47,7 +47,7 @@ And you can be a contributor also you will be added to our framework and get a l
 -- mqwar17@gmail.com<br />
 -- @Ghost13Orgen (Twitter) <br />
 -- @LordCat(Telegram) <br />
--- Code snippets from: threat9
+-- Code snippets from: threat9 <br />
 --- Contact us: TheDeathWing@protonmail.com
 
 Also join us:
